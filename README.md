@@ -3,6 +3,7 @@ a console project that replicates the classic hangman game. The project randomly
 The player has 6 attempts (or lives) to guess the entire word.
 
 If the player guesses a correct letter, all _ are replaced by that letter.
+
 If the player misses, a live is discount from the current total and a display of the hangman is showed on the screen through ASCII art
 
 SKILLS:
